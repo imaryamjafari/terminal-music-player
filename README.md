@@ -1,4 +1,4 @@
-Terminal Music Player
+# Terminal Music Player
 
 A feature-rich terminal-based music player built in C++ that plays actual audio files using the miniaudio library. No GUI — just your terminal and keyboard controls.
 
